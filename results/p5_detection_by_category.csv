@@ -1,0 +1,9 @@
+category,n,truth,"RTS v1 (doc cosine, mid-term)",SBERT span similarity,NLI only (max P_entail),RTS v2
+claim CONTRADICT,64,hallucinated,82.8,100.0,98.4,96.9
+claim NEI,112,hallucinated,92.0,100.0,95.5,94.6
+claim SUPPORT,124,grounded,79.0,100.0,46.0,41.9
+perturbed: entity,27,hallucinated,100.0,100.0,96.3,88.9
+perturbed: negation,90,hallucinated,75.6,100.0,95.6,95.6
+perturbed: number,7,hallucinated,71.4,100.0,100.0,100.0
+rationale sentence,209,grounded,71.8,0.0,0.0,0.0
+unsupported sentence,44,hallucinated,100.0,100.0,100.0,100.0

@@ -1,0 +1,13 @@
+# caches and large intermediates (rebuilt automatically by the notebook)
+cache/
+runs/
+data/beir_nfcorpus/
+data/beir_fiqa/
+*.pkl
+*.npy
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db

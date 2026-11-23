@@ -1,0 +1,1 @@
+{"nli_model": "DeBERTa-v3-large NLI (+FEVER/ANLI)", "alpha": 0.75, "lambda": 0.25, "tau": 0.6408, "tau_high": 0.6602, "tau_low": 0.5606, "tau_contra": 0.9600000000000006, "top_m": 5, "detector_thresholds": {"RTS v1 (doc cosine, mid-term)": 0.7597, "SBERT span similarity": 0.9758, "NLI only (max P_entail)": 0.7936, "RTS v2": 0.6408}, "gate_rule": "gate if not entailed"}

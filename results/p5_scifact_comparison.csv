@@ -1,0 +1,11 @@
+setting,system,LO precision,LO recall,LO F1
+Open (retrieval),This work — LLM only,33.7,39.2,36.3
+Open (retrieval),This work — NLI only,56.9,53.6,55.2
+Open (retrieval),This work — LLM + RTS v2,55.8,57.4,56.6
+Oracle abstracts,This work — LLM only,67.9,52.6,59.3
+Oracle abstracts,This work — NLI only,81.0,65.1,72.1
+Oracle abstracts,This work — LLM + RTS v2,79.4,71.8,75.4
+Open (retrieval),Wadden et al. (2020) — VeriSci,55.4,47.5,51.0
+Open (retrieval),Wadden et al. (2020) — Zero-shot,52.7,41.6,46.5
+Oracle abstracts,Wadden et al. (2020) — VeriSci,91.0,67.4,77.4
+Oracle abstracts,Wadden et al. (2020) — Zero-shot,88.9,58.3,70.4

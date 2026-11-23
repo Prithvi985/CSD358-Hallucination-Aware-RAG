@@ -1,0 +1,1 @@
+{"BM25": {"k1": 1.2, "b": 0.9}, "TF-IDF zones": {"w_title": 1.0}, "QL-Dirichlet": {"mu": 500}, "RM3": {"fb_docs": 3, "fb_terms": 20, "orig_weight": 0.7}}

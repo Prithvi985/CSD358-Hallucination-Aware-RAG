@@ -1,0 +1,5 @@
+context,claims,parse rate,evidence recall@5,verdict accuracy,macro-F1,sentences / answer,sentences with valid citation,sentences with invalid citation,sec / claim
+final,300,1.0,0.84,0.5533,0.4141,2.2267,0.485,0.0015,3.1287
+midterm,300,1.0,0.8167,0.5567,0.4173,2.1267,0.4906,0.0031,3.0336
+oracle,300,1.0,1.0,0.6267,0.4692,2.21,0.3816,0.0015,1.2852
+train,200,1.0,0.855,0.515,0.3848,2.185,0.4874,0.0023,3.1548

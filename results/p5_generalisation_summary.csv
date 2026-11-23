@@ -1,0 +1,5 @@
+,SciFact (in-domain),NFCorpus (zero-shot),FiQA (zero-shot)
+"BM25 Anserini default (0.9, 0.4)",0.6782,0.3261,0.2404
+Dense BGE-base,0.7421,0.3712,0.4052
+Hybrid RRF (SciFact-tuned),0.7627,0.3798,0.4235
+★ Final pipeline (+ BGE-reranker-base),0.7657,0.383,0.4324

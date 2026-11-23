@@ -1,0 +1,16 @@
+System,Source,NDCG@10
+BM25 (Anserini),"Thakur et al. (2021), BEIR Table 2",0.665
+DeepCT,"Thakur et al. (2021), BEIR Table 2",0.63
+SPARTA,"Thakur et al. (2021), BEIR Table 2",0.582
+docT5query,"Thakur et al. (2021), BEIR Table 2",0.675
+DPR,"Thakur et al. (2021), BEIR Table 2",0.318
+ANCE,"Thakur et al. (2021), BEIR Table 2",0.507
+TAS-B,"Thakur et al. (2021), BEIR Table 2",0.643
+GenQ,"Thakur et al. (2021), BEIR Table 2",0.644
+ColBERT,"Thakur et al. (2021), BEIR Table 2",0.671
+BM25+CE,"Thakur et al. (2021), BEIR Table 2",0.688
+"BM25 Anserini default (0.9, 0.4)",This work,0.678
+BM25 + MiniLM CE (BEIR BM25+CE replication),This work,0.689
+Dense BGE-base,This work,0.742
+Hybrid RRF tuned,This work,0.763
+★ Hybrid RRF tuned + BGE-reranker-base (final),This work,0.766

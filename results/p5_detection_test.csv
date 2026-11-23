@@ -1,0 +1,5 @@
+detector,ROC-AUC,PR-AUC,precision,recall,F1,accuracy
+"RTS v1 (doc cosine, mid-term)",0.6601,0.6881,0.5474,0.8721,0.6726,0.5687
+SBERT span similarity,0.8841,0.8695,0.735,1.0,0.8473,0.8168
+NLI only (max P_entail),0.9333,0.9043,0.8538,0.968,0.9074,0.8996
+RTS v2,0.9583,0.9502,0.8635,0.9564,0.9076,0.901
